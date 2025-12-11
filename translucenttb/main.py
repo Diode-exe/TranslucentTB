@@ -94,3 +94,6 @@ class Settings(Tk):
             event.widget.state(["invalid"])
         else:
             event.widget.state(["!invalid"])
+
+if __name__ == "__main__":
+    print("This is a module, and not meant to be ran directly... ")
