@@ -1,7 +1,7 @@
 ### TranslucentTB
-#### This is a python version TranslucentTB maybe with tkinter and ctypes
+#### This is a version of TranslucentTB made with tkinter and ctypes, written in Python
 
-A lightweight utility that makes the Windows taskbar translucent/transparent on Windows 10 and Windows11.
+A lightweight utility that makes the Windows taskbar translucent/transparent on Windows 10 and Windows 11.
 
 ### Screenshots
 ![image](https://github.com/littlewhitecloud/TranslucentTB/assets/71159641/97763cac-2b58-4208-b98b-36d031c86880)
